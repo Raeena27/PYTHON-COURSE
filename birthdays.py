@@ -1,20 +1,10 @@
-a= "1. Raya"
-q= 20
-b= "2. Veer" 
-r= 15
-c= "3. Kaira" 
-s= 13
-d= "4. Bunny" 
-t= 25 
-e= "5. Lokesh"
-m= 56
-print (a) 
-print (q) 
-print (b) 
-print (r) 
-print (c) 
-print (s) 
-print (d) 
-print (t) 
-print (e) 
-print (m) 
+raeena= "15th August 2025"
+print ("raeena:", raeena)
+romeo= "26th September 2003"
+print ("romeo:", romeo)
+meera= "7th August 2004"
+print ("meera:", meera)
+samaira= "28th March 2009"
+print ("samaira:", samaira)
+veer= "30th May 2006"
+print ("veer:", veer)
