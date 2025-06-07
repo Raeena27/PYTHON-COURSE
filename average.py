@@ -1,0 +1,9 @@
+mango= 98
+apple= 94
+coconut= 41
+guava= 95
+avocado= 11
+sum= apple+mango+guava+avocado+coconut
+print (sum)
+average= sum/5
+print (average)
